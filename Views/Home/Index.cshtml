@@ -1,0 +1,23 @@
+﻿@model Todo.Models.ViewModels.TodoViewModel
+
+<h1>Todo List</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.TodoList)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Description</td>
+                <td>@item.IsCompleted</td>
+            </tr>
+        }
+    </tbody>
+</table>

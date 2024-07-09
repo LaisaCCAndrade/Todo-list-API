@@ -1,0 +1,9 @@
+C:\Users\Luan\Desktop\teste\c-sharp-academy-mvc-01-todo-vsc\Todo\obj\Debug\net6.0\Todo.csproj.AssemblyReference.cache
+C:\Users\Luan\Desktop\teste\c-sharp-academy-mvc-01-todo-vsc\Todo\obj\Debug\net6.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Desktop\teste\c-sharp-academy-mvc-01-todo-vsc\Todo\obj\Debug\net6.0\Todo.AssemblyInfoInputs.cache
+C:\Users\Luan\Desktop\teste\c-sharp-academy-mvc-01-todo-vsc\Todo\obj\Debug\net6.0\Todo.AssemblyInfo.cs
+C:\Users\Luan\Desktop\teste\c-sharp-academy-mvc-01-todo-vsc\Todo\obj\Debug\net6.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Desktop\teste\c-sharp-academy-mvc-01-todo-vsc\Todo\obj\Debug\net6.0\Todo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luan\Desktop\teste\c-sharp-academy-mvc-01-todo-vsc\Todo\obj\Debug\net6.0\Todo.RazorAssemblyInfo.cache
+C:\Users\Luan\Desktop\teste\c-sharp-academy-mvc-01-todo-vsc\Todo\obj\Debug\net6.0\Todo.RazorAssemblyInfo.cs
+C:\Users\Luan\Desktop\teste\c-sharp-academy-mvc-01-todo-vsc\Todo\obj\Debug\net6.0\Todo.sourcelink.json
